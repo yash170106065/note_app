@@ -1,6 +1,8 @@
 # Note Taking App
 Note-taking applications (also called note-taking apps) allow students to: Store all notes and important information digitally, usually in a cloud-based storage system. Type, write, and draw notes on the device of choice just as one would using pen and paper.
 
+You can view how its working by clicking [here](https://drive.google.com/open?id=1QShBKki09iwDQ4sq1iVXlKoV09UPF26Q)
+
 ## Running on Local Server
 
 This project is simple and only needs python3 and python3-django so either you you install like this or set-up a virtual environment
